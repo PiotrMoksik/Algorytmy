@@ -1,0 +1,1 @@
+<mxfile host="app.diagrams.net" modified="2023-02-16T15:58:44.435Z" agent="5.0 (Windows)" version="20.8.20" etag="LKc0-BvZLKrrz5Oui1OF" type="github"><diagram name="Strona-1" id="GLIaqRRji7lBkZ8DAWl8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
